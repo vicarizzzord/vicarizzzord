@@ -1,11 +1,11 @@
 <h1 align="left">Hi 😊, I'm Vinícius Vicari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programming student, on the road to full stack dev
+- 🔥 Programming student, on the road to data analysis
 
 - 🔭 I’m graduated at Fatec Indaiatuba on Systems Analysis and Development
 
-- 🌱 I’m currently learning Node.js and React.js with Typescript
+- 🌱 I’m currently learning Pandas and Python
 
 - 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
